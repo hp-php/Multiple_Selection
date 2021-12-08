@@ -1,0 +1,2 @@
+rootProject.name = "Demo Multiple Selection"
+include ':app'
